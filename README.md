@@ -1,1 +1,1 @@
-# probniy
+print('hello')
